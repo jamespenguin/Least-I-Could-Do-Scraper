@@ -1,3 +1,5 @@
 *.pyc
 *.html
 out/*
+buid/*
+dist/*
