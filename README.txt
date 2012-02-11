@@ -1,0 +1,1 @@
+Python script for saving all strips from the website http://leasticoulddo.com/
