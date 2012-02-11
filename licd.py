@@ -109,7 +109,6 @@ if __name__ == '__main__':
     # get strip page URLs
     strip_urls = get_archived_strip_urls()
     strip_urls.sort()
-    strip_urls = strip_urls[:200]
 
     # prep output directory
     print "[+] Prepping output directory (./out)"
